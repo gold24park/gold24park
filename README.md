@@ -12,6 +12,5 @@
 </div>
 <!-- Github Stats -->
 <div class="container">
-  <img style="height: 180px;" class="img" src="https://github-readme-stats.vercel.app/api?username=gold24park&show_icons=false&theme=apprentice&hide_border=true" />
   <img style="height: 180px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gold24park&layout=compact&theme=apprentice&hide_border=true" /></div>
 </div>
